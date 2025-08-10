@@ -1,0 +1,37 @@
+Resumo da coleta - 2025-08-09T21:24:57.270788
+Duração: 3.88 segundos
+
+[CEPEA] - SIMULADO
+  commodity: soja
+  price: 156.81
+  variation: -0.7%
+  source: CEPEA_SIMULADO
+  timestamp: 2025-08-09T21:24:55.618237
+
+[B3] - SIMULADO
+  commodity: soja_futuro
+  price: 14.62
+  variation: +0.75%
+  source: B3_SIMULADO
+  timestamp: 2025-08-09T21:24:56.265869
+
+[USD] - SIMULADO
+  currency: USD
+  rate: 4.8163
+  variation: +0.10%
+  source: USD_SIMULADO
+  timestamp: 2025-08-09T21:24:56.887755
+
+[INMET] - SIMULADO
+  state: MT
+  avg_rainfall_mm: 9.7
+  source: INMET_SIMULADO
+  timestamp: 2025-08-09T21:24:57.258776
+
+[CONAB] - SIMULADO
+  commodity: soja
+  production_million_tons: 161.5
+  state: BR
+  source: CONAB_SIMULADO
+  timestamp: 2025-08-09T21:24:57.270788
+

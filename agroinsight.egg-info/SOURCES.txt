@@ -1,0 +1,8 @@
+setup.py
+agroinsight.egg-info/PKG-INFO
+agroinsight.egg-info/SOURCES.txt
+agroinsight.egg-info/dependency_links.txt
+agroinsight.egg-info/top_level.txt
+dashboard/__init__.py
+dashboard/main.py
+tests/test_data_collector.py
